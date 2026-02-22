@@ -18,7 +18,7 @@ st.title("Insulin Infusion Calculator")
 
 # 1. Target BG Text and PDF Link
 st.markdown("### **Target blood glucose level is 100-139 mg/dL.**")
-st.markdown("[📄 Click here to view the Yale Insulin Infusion Protocol PDF](https://your-link-to-pdf.com)")
+st.markdown("[📄 Click here to view the Yale Insulin Infusion Protocol PDF](http://www.glycemiccontrol.net/jpegs/Yale_Insulin_Infusion_Protocol.jpg)")
 st.caption("*Note: Calculations assume hourly rate of change (last BG measured 1 hr ago).*")
 
 st.divider()
